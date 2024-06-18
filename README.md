@@ -21,12 +21,7 @@ assignee: The assignee of the patent.
 filing_date: The date the patent was filed.
 publication_date: The date the patent was published.
 
-Usage
-Clone the repository:
 
-git clone https://github.com/yourusername/patent-topic-modeling.git
-
-cd patent-topic-modeling
 
 Install dependencies:
 
